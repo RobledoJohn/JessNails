@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    Home
+    Productos
   </main>
 </template>

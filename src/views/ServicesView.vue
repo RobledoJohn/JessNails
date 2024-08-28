@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    Home
+    Servicios
   </main>
 </template>
