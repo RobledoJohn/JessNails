@@ -50,18 +50,18 @@
 .btn-small{
   height: 25px;
   width: 55px;
-  background-color: #FC6A95;
+  background-color: #DD5981;
   text-decoration: none;
   color: #fff;
   border-radius: 5px;
   text-align: center;
 }
 .btn-small:hover{
-  background-color: #df2960;
+  background-color: #AC093A;
 }
 
 .second-container{
-  background-color: #FC6A95;
+  background-color: #DD5981;
   width: 100%;
   height: 50px;
   display: flex;
@@ -83,7 +83,7 @@
   cursor: pointer;
 }
 .navbar-item:hover {
-  color: #df2960;
+  color: #AC093A;
 }
 
 </style>
