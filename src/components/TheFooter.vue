@@ -2,7 +2,9 @@
   <div class="footer-container">
     <div class="foot-one">
       <p class="">Informacion Footer</p>
-      <a href="/subir">Subir</a>
+      <Router-link to="/subir" class="btn">
+        <li>Subir Fotos</li>
+      </Router-link>
     </div>
     <dic class="foot-two">
       <p>Desarrollado por &copy;SoycoDev</p>
