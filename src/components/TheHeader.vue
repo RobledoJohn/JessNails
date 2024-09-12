@@ -30,11 +30,9 @@
 
 .header-container {
   height: 100%;
-  background-color: grey;
 }
 
 .first-container {
-  background-color: #fff;
   width: 100%;
   height: 35px;
   display: flex;

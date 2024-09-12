@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main>
-    Productos
-  </main>
+  <div>
+    <p class="tittle">Productos</p>   
+  </div>
 </template>

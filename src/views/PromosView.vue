@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main>
-    Promociones
-  </main>
+  <div>
+    <p class="tittle">Promociones</p>    
+  </div>
 </template>
