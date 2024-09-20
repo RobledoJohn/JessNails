@@ -31,6 +31,10 @@ body {
   }
 }
 
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
 
 .tittle{
   color: #DD5981;

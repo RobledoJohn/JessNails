@@ -21,6 +21,9 @@
         <Router-link to="/galeria" class="navbar-item">
           <li>Galeria</li>
         </Router-link>
+        <Router-link to="/subir" class="navbar-item ">
+          <li>Subir Fotos</li>
+        </Router-link>
       </ul>
     </nav>
   </div>
