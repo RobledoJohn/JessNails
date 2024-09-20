@@ -18,9 +18,6 @@
 
 <style>
 
-.footer-container {
-  width: 100%;
-}
 
 .sub-tittle {
   font-size: 20px;

@@ -61,9 +61,4 @@
 }
 
 
-
-.section-service{
-  
-}
-
 </style>

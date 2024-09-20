@@ -24,7 +24,13 @@ body {
   margin: 0;
   padding: 0;
   background-color: #F4D4D4;
+  #app{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
 }
+
 
 .tittle{
   color: #DD5981;
@@ -38,6 +44,10 @@ body {
   margin: 25px;
   text-align: center;
   font-size: 25px;
+}
+
+footer{
+  margin-top: auto;
 }
 
 </style>
