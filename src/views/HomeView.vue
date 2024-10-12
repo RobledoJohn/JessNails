@@ -21,10 +21,9 @@
 
 .home-banner{
   width: 100%;
-  height: 350px;
+  height: 250px;
   object-position: center;
 }
-
 
 .home-txt{
   font-size: 20px;
