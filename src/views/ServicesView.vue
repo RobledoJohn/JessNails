@@ -46,7 +46,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .services-container {
   width: 100%;
   gap: 20px;

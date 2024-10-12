@@ -6,3 +6,6 @@
     <p class="tittle">Productos</p>   
   </div>
 </template>
+
+<style scope>
+</style>
