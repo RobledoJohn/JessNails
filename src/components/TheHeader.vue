@@ -15,9 +15,6 @@
         <Router-link to="/productos" class="navbar-item">
           <li>Productos</li>
         </Router-link>
-        <Router-link to="/promociones" class="navbar-item">
-          <li>Promociones</li>
-        </Router-link>
         <Router-link to="/galeria" class="navbar-item">
           <li>Galeria</li>
         </Router-link>
