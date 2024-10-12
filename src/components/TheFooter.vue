@@ -18,7 +18,7 @@
 
 .sub-tittle {
   font-size: 20px;
-  margin: 5px;
+  margin: 15px 0 0 0;
   color: #52021a;
 }
 

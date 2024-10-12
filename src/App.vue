@@ -31,11 +31,6 @@ body {
   }
 }
 
-a:link, a:visited, a:hover, a:active {
-    text-decoration: none;
-}
-
-
 .tittle{
   color: #DD5981;
   margin: 25px;
@@ -52,6 +47,11 @@ a:link, a:visited, a:hover, a:active {
 
 footer{
   margin-top: auto;
+  padding-top: 50px;
+}
+
+p{
+  margin: 0;
 }
 
 </style>

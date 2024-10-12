@@ -5,7 +5,7 @@
       <a class="btn-small" href="https://api.whatsapp.com/send?phone=573125977481&text=Hola deseo información" target="_blank">Aquí!</a>
     </div>
     <nav class="second-container">
-      <ul class="navbar">
+      <ul class="navbar-header">
         <Router-link to="/" class="navbar-item">
           <li>Inicio</li>
         </Router-link>
@@ -71,9 +71,10 @@
   gap: 10px;
 }
 
-.navbar {
+.navbar-header {
   display: flex;
   gap: 15px;
+  margin-bottom: 0;
 }
 
 .navbar-item {
