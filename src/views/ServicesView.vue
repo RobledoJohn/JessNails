@@ -96,7 +96,7 @@
 
 .section-service img {
   border-radius: 10px;
-  width: 70%;
-  height: auto;
+  width: 200px;
+  height: 200px;
 }
 </style>
