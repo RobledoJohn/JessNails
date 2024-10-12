@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .home-container {
   height: 100%;
   display: flex;

@@ -48,7 +48,7 @@ onMounted(() => {
   </div>
 </template>
 
-<style>
+<style scoped>
 
 .gallery-container {
   display: flex;

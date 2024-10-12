@@ -49,3 +49,6 @@ const onUpload = () => {
   <button @click="onUpload">Subir</button>
   <img v-if="pictureUrl" :src="pictureUrl" width="300" alt="imgUpload" />
 </template>
+
+<style scope>
+</style>
