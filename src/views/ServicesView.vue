@@ -10,7 +10,7 @@
           <p class="subtittle subtittle-service">Manicure</p>
           <p class="txt-service">Realza la belleza de tus manos con nuestro servicio de manicure profesional. Utilizamos productos de alta calidad para garantizar uñas perfectas, duraderas y un acabado impecable. ¡Dale a tus manos el cuidado que merecen!</p>
         </div>
-        <img src="../assets/img/servicios/manicure.jpg" alt="img servicio">
+        <img src="../assets/img/servicios/manicure.png" alt="img servicio">
       </div>
       <div class="section-service">
         <div class="section-txt-service">
