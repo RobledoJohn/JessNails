@@ -74,6 +74,7 @@
   display: flex;
   gap: 15px;
   margin-bottom: 0;
+  padding: 0;
 }
 
 .navbar-item {
