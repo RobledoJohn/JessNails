@@ -23,7 +23,13 @@ body {
   font-family: 'Kalam', 'arial';
   margin: 0;
   padding: 0;
-  background-color: #F4D4D4;
+  background-image: url(../src/assets/img/fondo.png);
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: center;
+  background-attachment: scroll;
+
+
   #app{
     display: flex;
     flex-direction: column;
