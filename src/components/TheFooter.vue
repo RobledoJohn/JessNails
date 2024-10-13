@@ -3,9 +3,11 @@
     <div class="foot-one">
       <p class="sub-tittle">Buscanos en:</p>
       <div class="icons-foot">
+        <a href="https://maps.app.goo.gl/Bhpf6rQin4pZD1w98" target="_blank" class="icono-footer"><i class="bi bi-geo-alt-fill"></i></a>
         <a href="https://www.tiktok.com/@jessikarobledo0" target="_blank" class="icono-footer"><i class="bi bi-tiktok"></i></a>
         <a href="https://www.instagram.com/jessy_spa_service/" target="_blank" class="icono-footer"><i class="bi bi-instagram"></i></a>
-        <a href="https://maps.app.goo.gl/Bhpf6rQin4pZD1w98" target="_blank" class="icono-footer"><i class="bi bi-geo-alt-fill"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=61566540766185&notif_id=1728569424397665&notif_t=follow_profile&ref=notif" target="_blank" class="icono-footer"><i class="bi bi-facebook"></i></a>
+        <a href="https://api.whatsapp.com/send?phone=573125977481" target="_blank" class="icono-footer"><i class="bi bi-whatsapp"></i></a>
       </div>
     </div>
     <dic class="foot-two">

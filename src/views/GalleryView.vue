@@ -50,25 +50,77 @@ onMounted(() => {
 
 <style scoped>
 
-.gallery-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+/*PC*/
+@media screen and (min-width: 1024px){
+  .gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
+  }
+
+  .item-gallery {
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+  }
+}
+/*Tablet*/
+@media screen and (min-width: 768px) and (max-width: 1023px){
+  .gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
+  }
+
+  .item-gallery {
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+  }
+}
+/*Celular*/
+@media screen and (min-width: 300px) and (max-width: 767px){
+  .gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
+  }
+
+  .item-gallery {
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+  }
 }
 
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-  margin: 20px;
-}
 
-.item-gallery {
-  border-radius: 10px;
-  width: 250px;
-  height: 250px;
-}
+
 
 </style>

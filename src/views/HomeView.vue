@@ -11,6 +11,7 @@
 </template>
 
 <style scoped>
+/*pc*/
 @media screen and ( min-width: 1024px){
   .home-container {
     height: 100%;
@@ -35,7 +36,8 @@
   }
   
 }
-@media screen and ( min-width: 768px) and (max-width: 1024px) {
+/*tablet*/
+@media screen and ( min-width: 768px) and (max-width: 1023px) {
   .home-container {
     height: 100%;
     display: flex;
@@ -59,6 +61,7 @@
   }
   
 }
+/*celular*/
 @media screen and (min-width: 300px) and (max-width: 767px) { 
   .home-container {
     height: 100%;
