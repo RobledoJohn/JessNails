@@ -18,9 +18,10 @@
         <Router-link to="/galeria" class="navbar-item">
           <li>Galeria</li>
         </Router-link>
+        <!---
         <Router-link to="/subir" class="navbar-item ">
-          <li>Subir Fotos</li>
-        </Router-link>
+          <li>Subir</li>
+        </Router-link>-->
       </ul>
     </nav>
   </div>
@@ -39,6 +40,7 @@
   align-items: center;
   justify-content: center;
   gap: 10px;
+  background-color: #f4d4d4;
 }
 
 .txt-basico {
