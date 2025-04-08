@@ -2,7 +2,7 @@
   <div class="header-container">
     <div class="first-container">
       <p class="txt-basico">Reserva tu cita</p>
-      <a class="btn-small" href="https://api.whatsapp.com/send?phone=573125977481&text=Hola deseo información" target="_blank">Aquí!</a>
+      <a class="btn-small" href="https://wa.link/idt77c" target="_blank">Aquí!</a>
     </div>
     <nav class="second-container">
       <ul class="navbar-header">
